@@ -5,4 +5,4 @@
 <h3> CREATE A CALCULATOR USING HTML, CSS & JavaScript <h3>
 
 <h2> Live Demo - </h2>
-https://peaceful-bohr-bd5e92.netlify.app/
+https://ani-calculater-task.netlify.app/
